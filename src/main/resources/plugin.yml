@@ -1,0 +1,17 @@
+name: RWFlag
+main: rw.flag.RWFlag
+version: 1.0
+api-version: '1.21.11'
+description: "Type :kh: in chat or on signs to get the Cambodian flag and other symbols"
+commands:
+  rwflag:
+    description: List shortcodes, reload
+    usage: "/rwflag <list|reload>"
+    aliases: [flag, flags]
+permissions:
+  rwflag.use:
+    description: "Use :shortcodes: in chat and signs"
+    default: true
+  rwflag.admin:
+    description: Reload the plugin
+    default: op
