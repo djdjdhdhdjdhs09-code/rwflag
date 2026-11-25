@@ -1,0 +1,20 @@
+# RWFlag - type :name: in chat or on a sign and it becomes the symbol below.
+# Colors use MiniMessage: <#RRGGBB> hex colors, <red>, <bold>, ...
+# Add your own lines in the same style. Names: lowercase letters, numbers and _ only.
+
+chat: true
+signs: true
+
+emojis:
+  kh: "<#032EA1>▌<#E00025>█<#FFFFFF>▲▲▲<#E00025>█<#032EA1>▐"
+  cambodia: "<#032EA1>▌<#E00025>█<#FFFFFF>▲▲▲<#E00025>█<#032EA1>▐"
+  khmer: "<#032EA1>▌<#E00025>█<#FFFFFF>▲▲▲<#E00025>█<#032EA1>▐"
+  heart: "<red>❤"
+  star: "<yellow>★"
+  check: "<green>✔"
+  cross: "<red>✘"
+  smile: "<yellow>☺"
+  sun: "<gold>☀"
+  music: "<aqua>♪"
+  crown: "<gold>♛"
+  sword: "<white>⚔"
